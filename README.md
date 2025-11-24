@@ -4,8 +4,8 @@
 
 
 ## **Languages and Tools**
-![Flutter](https://img.shields.io/badge/1C-Develop-brightgreen?style=for-the-badge) 
-![QA](https://img.shields.io/badge/QA-engeener-brightgreen?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/1C-Developer-brightgreen?style=for-the-badge) 
+![QA](https://img.shields.io/badge/QA-Tester-brightgreen?style=for-the-badge)
 
 ![SQL](https://img.shields.io/badge/SQL-8A2BE2)
 ![Postman](https://img.shields.io/badge/POSTMAN-8A2BE2)
@@ -17,11 +17,6 @@
 
 ## **Follow Me**
 
-<!--
-**Aleksander-pro/aleksander-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -30,4 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
